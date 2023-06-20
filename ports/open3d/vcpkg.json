@@ -1,7 +1,8 @@
 {
     "name": "open3d",
     "version-string": "0.17.0",
-    "description": "Open3d library.",
+    "port-version": 1,
+    "description": "vcpkg port for the Open3d library.",
     "dependencies": [
         "eigen3",
         "assimp",
