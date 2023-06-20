@@ -3,6 +3,23 @@
     "version-string": "0.17.0",
     "description": "Open3d library.",
     "dependencies": [
+        "assimp",
+        "eigen3",
+        "flann",
+        "fmt",
+        "glew",
+        "glfw3",
+        "gtest",
+        "imgui",
+        "libjpeg-turbo",
+        "nanoflann",
+        "opengl",
+        "parallelstl",
+        "poissonrecon",
+        "qhull",
+        "tbb",
+        "tinygltf",
+        "tinyobjloader",
         {
             "name": "vcpkg-cmake",
             "host": true
