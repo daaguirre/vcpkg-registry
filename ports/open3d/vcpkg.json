@@ -3,8 +3,8 @@
     "version-string": "0.17.0",
     "description": "Open3d library.",
     "dependencies": [
-        "assimp",
         "eigen3",
+        "assimp",
         "flann",
         "fmt",
         "glew",
