@@ -1,6 +1,6 @@
 {
     "name": "open3d",
-    "version-string": "0.17",
+    "version-string": "0.17.0",
     "description": "Open3d library.",
     "dependencies": [
         {
