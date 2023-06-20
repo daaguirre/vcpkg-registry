@@ -3,6 +3,10 @@
         "cmake-tools": {
             "baseline": "0.1.0",
             "port-version": 0
+        },
+        "open3d": {
+            "baseline": "0.17.0",
+            "port-version": 0
         }
     }
 }
