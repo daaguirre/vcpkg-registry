@@ -1,9 +1,9 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO daaguirre/cmake_tools
-    REF "refs/tags/0.1.0"
-    SHA512 96747dcf95c4fce41996c523041b1971173146708c5bb2e2524c80ddaa09403ce4c36baa128c0eac0803174ed0c20dd663aed1cb383a77511e3c29fd6cbcaa68
-    HEAD_REF master
+    REF "refs/tags/0.2.0"
+    SHA512 c7734bb93391662091eb2bdfd3cc3cda985f8ceae8dfe511cb644b3ffc628978483234dd8e692019b84b21eea4c13f47fc3ef5c15d45f613b84e26394fa50c74
+    HEAD_REF main
 )
 
 file(GLOB FILES "${SOURCE_PATH}/cmake/*")
